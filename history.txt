@@ -1,3 +1,19 @@
+
+
+  998  ssh -X x161REB161@213.175.92.37
+  999  ssh -X x161REB071@213.175.92.37
+ 1000  exit
+ 1001  matlabmatlab
+ 1002  matlabmatlab
+ 1003  matlab
+ 1004  firefox
+ 1005  firfox
+ 1006  firefox
+ 1007  exit
+ 1008  ssh -X x161REB152@213.175.92.22
+ 1009  firefox
+ 1010  ssh -X x161REB161@213.175.92.22
+ 1011  firefox &
  1012  ssh -X x161REB071@213.175.92.22
  1013  firefox &
  1014  ssh -X x161REB071@213.175.92.22
@@ -970,31 +986,15 @@
  1981  pwd
  1982  cd home
  1983  exit
- 1984  pwd
- 1985  cd /home/user
- 1986  pwd
- 1987  cd /
- 1988  cd ~
- 1989  pwd
- 1990  cd /
- 1991  pwd
- 1992  cd
- 1993  pwd
- 1994  cd /
- 1995  pwd
- 1996  ls
- 1997  mkdir darbi
- 1998  cd~
- 1999  cd ~
- 2000  pwd
- 2001  ls
- 2002  mkdir documents/
- 2003  mkdi
- 2004  mk
- 2005  ls
- 2006  mkdir darbi
- 2007  mkdir darbi001
- 2008  cd darbi001
- 2009  ls -la
- 2010  history
- 2011  history > history.txt
+ 1984  git init
+ 1985  git add .
+ 1986  ls
+ 1987  git commit -m "20170914_15_55"
+ 1988  git remote add origin https://github.com/lazdlv/DMI.git
+ 1989  git push origin master
+ 1990  history
+ 1991  lsl
+ 1992  ls -l
+ 1993  history.txt
+ 1994  cat history.txt
+ 1995  history > history.txt
