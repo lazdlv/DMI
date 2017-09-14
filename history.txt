@@ -1,1000 +1,1000 @@
-
-
-  998  ssh -X x161REB161@213.175.92.37
-  999  ssh -X x161REB071@213.175.92.37
- 1000  exit
- 1001  matlabmatlab
- 1002  matlabmatlab
- 1003  matlab
- 1004  firefox
- 1005  firfox
- 1006  firefox
- 1007  exit
- 1008  ssh -X x161REB152@213.175.92.22
- 1009  firefox
- 1010  ssh -X x161REB161@213.175.92.22
- 1011  firefox &
- 1012  ssh -X x161REB071@213.175.92.22
- 1013  firefox &
- 1014  ssh -X x161REB071@213.175.92.22
+  995  ssh -X xmate@213.175.92.22
+  996  ls
+  997  ssh -X x161REB161@213.175.92.22
+  998  firefox &
+  999  virtualbox &
+ 1000  ssh -X x161REB161@213.175.92.37
+ 1001  cal 2017
+ 1002  firefox &
+ 1003  exit
+ 1004  matlab &
+ 1005  firefox
+ 1006  ssh -X xmate@213.175.92.22
+ 1007  snoopy2
+ 1008  -X x161REB080@213.175.92.37
+ 1009  ssh -X x161REB199@213.175.92.37
+ 1010  exit
+ 1011  ssh -X x161REB080@213.175.92.37
+ 1012  exit
+ 1013  ssh -X x161REB071@213.175.92.22
+ 1014  exit
  1015  firefox &
  1016  virtualbox &
- 1017  cal
- 1018  exit
- 1019  ssh -X x161REB161@213.175.92.37
- 1020  date
- 1021  firefox &
- 1022  matlab &
- 1023  exit
- 1024  ssh -X x161REB071@213.175.92.37
- 1025  exit
+ 1017  exit
+ 1018  ssh -X x161REB161@213.175.92.22
+ 1019  ls
+ 1020  uname -a
+ 1021  uname -i
+ 1022  tar xf arduino-1.6.8-linux32.tar.xz
+ 1023  tar xf arduino-1.8.2-linux32.tar.xz
+ 1024  ls
+ 1025  cd arduino
  1026  ls
- 1027  ngspice
- 1028  exit
- 1029  ngspice
- 1030  matlab
- 1031  p
- 1032  clear
- 1033  firefox
- 1034  ssh -X x161REB152@213.175.92.22
- 1035  exit
- 1036  ssh -X x161REB161@213.175.92.22
- 1037  ssh -X x161REB071@213.175.92.22
- 1038  df -h
- 1039  firefox &
- 1040  virtualbox &
- 1041  df -h
- 1042  cal\\\; 
- 1043  cal
- 1044  ssh -X x161REB161@213.175.92.22
- 1045  ssh -X x161REB161@213.175.92.37
- 1046  ls
- 1047  ssh -X x161REB161@213.175.92.22
- 1048  ssh -X x161REB161@213.175.92.37
- 1049  shell
- 1050  ssh -X x161REB152@213.175.92.22
- 1051  ssh -X x161REB132@213.175.92.22
- 1052  ssh -X x161REB161@213.175.92.22
- 1053  firefox &
- 1054  exit
- 1055  ssh -X x161REB071@213.192.75.22
- 1056  ssh -X x161REB071@213.192.75.37
- 1057  ssh -X x161REB071@213.175.92.22
- 1058  firefox &
- 1059  virtualbox &
- 1060  ssh -X x161REB161@213.175.92.37
- 1061  firefox &
- 1062  exit
- 1063  firefox
- 1064  ssh -X xmate@213.175.92.22
- 1065  exit
- 1066  firefox
- 1067  ssh -X 161REB152@213.175.92.22
- 1068  ssh -X x161REB152@213.175.92.22
- 1069  ssh -X x161REB181@213.175.92.22
- 1070  ssh -X x161REB161@213.175.92.22
- 1071  matlab
- 1072  s
- 1073  ssh
- 1074  ssh -X x161REB178@213.175.92.22
- 1075  ssh
- 1076  ssh -X x161REB178@213.175.92.22
- 1077  firefox
- 1078  chromium-browser
- 1079  firefox
- 1080  firefox &
- 1081  virtualbox &
- 1082  cal
- 1083  ssh -X x161REB161@213.175.92.37
- 1084  ls
- 1085  firefox
- 1086  ssh -X xmate@213.175.92.22
- 1087  ssh -X x161REB161@213.175.92.22
- 1088  ssh -X xmate@213.175.92.22
- 1089  ls
- 1090  ssh -X x161REB161@213.175.92.22
- 1091  firefox &
- 1092  virtualbox &
- 1093  ssh -X x161REB161@213.175.92.37
- 1094  cal 2017
- 1095  firefox &
- 1096  exit
- 1097  matlab &
- 1098  firefox
- 1099  ssh -X xmate@213.175.92.22
- 1100  snoopy2
- 1101  -X x161REB080@213.175.92.37
- 1102  ssh -X x161REB199@213.175.92.37
- 1103  exit
- 1104  ssh -X x161REB080@213.175.92.37
- 1105  exit
- 1106  ssh -X x161REB071@213.175.92.22
- 1107  exit
- 1108  firefox &
- 1109  virtualbox &
- 1110  exit
- 1111  ssh -X x161REB161@213.175.92.22
- 1112  ls
- 1113  uname -a
- 1114  uname -i
- 1115  tar xf arduino-1.6.8-linux32.tar.xz
- 1116  tar xf arduino-1.8.2-linux32.tar.xz
- 1117  ls
- 1118  cd arduino
- 1119  ls
- 1120  cd arduino
- 1121  cd Arduino
- 1122  ls
- 1123  cd ..
- 1124  ls
- 1125  tar xf arduino-1.8.2-linux32.tar.xz
- 1126  tar arduino-1.8.2-linux32.tar.xz
- 1127  tar xf  arduino-1.8.2-linux32.tar.xz
- 1128  cd downloads
- 1129  cd arduino-1.8.2
- 1130  ./arduino &
- 1131  ssh -X xmate@213.175.92.22
- 1132  firefox
- 1133  matlab
- 1134  ssh -X x161REB181@213.175.92.22
- 1135  firefox
- 1136  ssh -X x161REB161@213.175.92.22
- 1137  ssh -X x161REB071@213.175.92.22
- 1138  exit
- 1139  help screen
- 1140  screenshot
- 1141  gnome-screenshot
- 1142  ksnapshot
- 1143  ksnapshot
- 1144  exit
- 1145  firefox &
- 1146  ls
- 1147  printscreen
- 1148  print
- 1149  screen
- 1150  exit
- 1151  ssh -X x161REB132@213.175.92.22
- 1152  exit
- 1153  firefox
- 1154  exit
- 1155  firefox &
- 1156  virtualbox &
- 1157  exit
- 1158  ssh X x171AEBOO4@213.175.92.22
- 1159  ssh -X x171AEB004@213.175.92.22
- 1160  exit
- 1161  ssh -X x171AEB004@213.175.92.22
- 1162  ssh -X x161REB161@213.175.92.22
- 1163  firefox &
- 1164  virtualbox &
- 1165  111
- 1166  1111
- 1167  matlab
- 1168  ssh -X x161REB132@213.175.92.37
- 1169  ssh -X x161REB161@213.175.92.37
- 1170  ssh -X x161REB161@213.175.92.37\
- 1171  ssh -X x161REB161@213.175.92.37
- 1172  chromium-browser 
- 1173  firefox
- 1174  ssh -X x161REB233@213.175.92.22
- 1175  firefox
- 1176  ssh
- 1177  ssh -X x161REB178@213.195.92.37
- 1178  111
- 1179  ssh
- 1180  ssh -X x161REB178@213.175.92.37
- 1181  firefox
- 1182  ssh -X x161REB161@213.175.92.27
- 1183  ssh -X x161REB161@213.175.92.37
- 1184  scp x161REB161@213.175.92.37:161REB161.png
- 1185  scp 161REB161.png x161REB161@213.175.92.37
- 1186  cd Downloads
+ 1027  cd arduino
+ 1028  cd Arduino
+ 1029  ls
+ 1030  cd ..
+ 1031  ls
+ 1032  tar xf arduino-1.8.2-linux32.tar.xz
+ 1033  tar arduino-1.8.2-linux32.tar.xz
+ 1034  tar xf  arduino-1.8.2-linux32.tar.xz
+ 1035  cd downloads
+ 1036  cd arduino-1.8.2
+ 1037  ./arduino &
+ 1038  ssh -X xmate@213.175.92.22
+ 1039  firefox
+ 1040  matlab
+ 1041  ssh -X x161REB181@213.175.92.22
+ 1042  firefox
+ 1043  ssh -X x161REB161@213.175.92.22
+ 1044  ssh -X x161REB071@213.175.92.22
+ 1045  exit
+ 1046  help screen
+ 1047  screenshot
+ 1048  gnome-screenshot
+ 1049  ksnapshot
+ 1050  ksnapshot
+ 1051  exit
+ 1052  firefox &
+ 1053  ls
+ 1054  printscreen
+ 1055  print
+ 1056  screen
+ 1057  exit
+ 1058  ssh -X x161REB132@213.175.92.22
+ 1059  exit
+ 1060  firefox
+ 1061  exit
+ 1062  firefox &
+ 1063  virtualbox &
+ 1064  exit
+ 1065  ssh X x171AEBOO4@213.175.92.22
+ 1066  ssh -X x171AEB004@213.175.92.22
+ 1067  exit
+ 1068  ssh -X x171AEB004@213.175.92.22
+ 1069  ssh -X x161REB161@213.175.92.22
+ 1070  firefox &
+ 1071  virtualbox &
+ 1072  111
+ 1073  1111
+ 1074  matlab
+ 1075  ssh -X x161REB132@213.175.92.37
+ 1076  ssh -X x161REB161@213.175.92.37
+ 1077  ssh -X x161REB161@213.175.92.37\
+ 1078  ssh -X x161REB161@213.175.92.37
+ 1079  chromium-browser 
+ 1080  firefox
+ 1081  ssh -X x161REB233@213.175.92.22
+ 1082  firefox
+ 1083  ssh
+ 1084  ssh -X x161REB178@213.195.92.37
+ 1085  111
+ 1086  ssh
+ 1087  ssh -X x161REB178@213.175.92.37
+ 1088  firefox
+ 1089  ssh -X x161REB161@213.175.92.27
+ 1090  ssh -X x161REB161@213.175.92.37
+ 1091  scp x161REB161@213.175.92.37:161REB161.png
+ 1092  scp 161REB161.png x161REB161@213.175.92.37
+ 1093  cd Downloads
+ 1094  ls
+ 1095  cd downloads
+ 1096  ls
+ 1097  scp x161reb161.png x161REB161@213.175.92.37
+ 1098  ssh -X x161REB161@213.175.92.27
+ 1099  ssh -X x161REB161@213.175.92.37
+ 1100  firefox &
+ 1101  ssh -X xmate@213.175.92.22
+ 1102  firefox
+ 1103  ksnapshot
+ 1104  ssh -X x161REB198@213.175.92.22
+ 1105  ksnapshot
+ 1106  ssh -X x151REB006@213.92.22
+ 1107  ssh -X x151REB006@213.175.92.22
+ 1108  ssh -X x151REB006@213.175.92.22
+ 1109  ssh -X x151REB006@213.185.92
+ 1110  ssh -X x151REB006@213.175.92.22
+ 1111  _firefox
+ 1112  firefox
+ 1113  ssh -X x151REB006@213.175.92.22
+ 1114  firefox &
+ 1115  exit
+ 1116  firefox &
+ 1117  exit
+ 1118  uneme-r
+ 1119  uaeme-r
+ 1120  uname-r
+ 1121  uname -r
+ 1122  lsb_release
+ 1123  cat/etc/*-relese
+ 1124  cat /etc/*-re
+ 1125  echo $0
+ 1126  man uname
+ 1127  pwd
+ 1128  whoami
+ 1129  who
+ 1130  ls
+ 1131  ls -l
+ 1132  ls -a
+ 1133  ls
+ 1134  ls -la
+ 1135  man ls
+ 1136  ls
+ 1137  pwd
+ 1138  cd Desktop/
+ 1139  pwd
+ 1140  cd Darbi
+ 1141  pwd
+ 1142  ls
+ 1143  ls-l
+ 1144  cd user
+ 1145  cd home
+ 1146  cd back
+ 1147  cd main
+ 1148  man cd
+ 1149  cd q
+ 1150  q
+ 1151  pwd
+ 1152  cd Desktop/
+ 1153  ls -la
+ 1154  cd .
+ 1155  pwd
+ 1156  cd ..
+ 1157  pwd
+ 1158  uname -r
+ 1159  lsb_release
+ 1160  cat /etc/*-release
+ 1161  echo $0
+ 1162  man echo
+ 1163  pwd
+ 1164  whoami
+ 1165  who
+ 1166  ls
+ 1167  ls -l
+ 1168  ls -a
+ 1169  ls -la
+ 1170  ls
+ 1171  cd Documents/
+ 1172  cd ..
+ 1173  pwd
+ 1174  cd
+ 1175  pwd
+ 1176  uname -r
+ 1177  lsb_release
+ 1178  cat /etc/*-release
+ 1179  echo $0
+ 1180  whoami
+ 1181  una
+ 1182  uname
+ 1183  uname -r
+ 1184  pwd
+ 1185  cd Documents/
+ 1186  man uname
  1187  ls
- 1188  cd downloads
- 1189  ls
- 1190  scp x161reb161.png x161REB161@213.175.92.37
- 1191  ssh -X x161REB161@213.175.92.27
- 1192  ssh -X x161REB161@213.175.92.37
- 1193  firefox &
- 1194  ssh -X xmate@213.175.92.22
- 1195  firefox
- 1196  ksnapshot
- 1197  ssh -X x161REB198@213.175.92.22
- 1198  ksnapshot
- 1199  ssh -X x151REB006@213.92.22
- 1200  ssh -X x151REB006@213.175.92.22
- 1201  ssh -X x151REB006@213.175.92.22
- 1202  ssh -X x151REB006@213.185.92
- 1203  ssh -X x151REB006@213.175.92.22
- 1204  _firefox
- 1205  firefox
- 1206  ssh -X x151REB006@213.175.92.22
- 1207  firefox &
- 1208  exit
- 1209  firefox &
- 1210  exit
- 1211  uneme-r
- 1212  uaeme-r
- 1213  uname-r
- 1214  uname -r
- 1215  lsb_release
- 1216  cat/etc/*-relese
- 1217  cat /etc/*-re
- 1218  echo $0
- 1219  man uname
- 1220  pwd
- 1221  whoami
- 1222  who
- 1223  ls
- 1224  ls -l
- 1225  ls -a
- 1226  ls
- 1227  ls -la
- 1228  man ls
- 1229  ls
+ 1188  cat /et
+ 1189  cat /etc/
+ 1190  cat /etc/pwd
+ 1191  home/user
+ 1192  pwd/home/user
+ 1193  whoami
+ 1194  who
+ 1195  ls
+ 1196  ls -1
+ 1197  ls -l
+ 1198  ls
+ 1199  ls -a
+ 1200  ls -la
+ 1201  ls -al
+ 1202  ls
+ 1203  ls - l
+ 1204  ls -l
+ 1205  cd D
+ 1206  cd Do
+ 1207  pwd
+ 1208  cd Documents
+ 1209  pwd
+ 1210  cd Documents/
+ 1211  cd documents/
+ 1212  pwd
+ 1213  ls
+ 1214  ls -l
+ 1215  cd :
+ 1216  cd:
+ 1217  ls -l
+ 1218  ls -la
+ 1219  pwd
+ 1220  cd .
+ 1221  pwd
+ 1222  cd ..
+ 1223  cd .. pwd
+ 1224  pwd
+ 1225  cd ..
+ 1226  pwd
+ 1227  cd ..
+ 1228  pwd
+ 1229  cd /home/user
  1230  pwd
- 1231  cd Desktop/
+ 1231  cd /
  1232  pwd
- 1233  cd Darbi
+ 1233  cd ~
  1234  pwd
- 1235  ls
- 1236  ls-l
- 1237  cd user
- 1238  cd home
- 1239  cd back
- 1240  cd main
- 1241  man cd
- 1242  cd q
- 1243  q
- 1244  pwd
- 1245  cd Desktop/
- 1246  ls -la
- 1247  cd .
- 1248  pwd
- 1249  cd ..
- 1250  pwd
- 1251  uname -r
- 1252  lsb_release
- 1253  cat /etc/*-release
- 1254  echo $0
- 1255  man echo
- 1256  pwd
- 1257  whoami
- 1258  who
- 1259  ls
- 1260  ls -l
- 1261  ls -a
- 1262  ls -la
- 1263  ls
- 1264  cd Documents/
- 1265  cd ..
- 1266  pwd
- 1267  cd
- 1268  pwd
- 1269  uname -r
- 1270  lsb_release
- 1271  cat /etc/*-release
- 1272  echo $0
- 1273  whoami
- 1274  una
- 1275  uname
- 1276  uname -r
- 1277  pwd
- 1278  cd Documents/
- 1279  man uname
+ 1235  cd ..
+ 1236  cd
+ 1237  pwd
+ 1238  cd
+ 1239  cd /
+ 1240  pwd
+ 1241  cd ~
+ 1242  cd
+ 1243  pwd
+ 1244  ls
+ 1245  mkdir darbi 
+ 1246  ;s
+ 1247  ls
+ 1248  cd /
+ 1249  mkdir darbi 
+ 1250  cd
+ 1251  pwd
+ 1252  mkdir darbi 
+ 1253  mkdir darbi1
+ 1254  pwd
+ 1255  ls
+ 1256  /darbi$ ls
+ 1257  /darbi1$ ls
+ 1258  ls -la
+ 1259  cd..
+ 1260  cd ..
+ 1261  pwd
+ 1262  cd
+ 1263  pwd
+ 1264  ls -l
+ 1265  rmdir VirtualBox Wms
+ 1266  rmdir VirtualBox VMs
+ 1267  ls -a
+ 1268  ls -al
+ 1269  rmdir darbi1
+ 1270  pwd
+ 1271  ls- al
+ 1272  ls -al
+ 1273  mkdir darbi1
+ 1274  ls
+ 1275  cd darbi1/
+ 1276  pwd
+ 1277  history
+ 1278  echo Vaards
+ 1279  echo "Vaards"
  1280  ls
- 1281  cat /et
- 1282  cat /etc/
- 1283  cat /etc/pwd
- 1284  home/user
- 1285  pwd/home/user
- 1286  whoami
- 1287  who
+ 1281  echo "Vaards Uzvards" > a.txt
+ 1282  ls
+ 1283  ls -al
+ 1284  cd .
+ 1285  ls
+ 1286  rmdir darbi1
+ 1287  mkdir darbi1
  1288  ls
- 1289  ls -1
- 1290  ls -l
- 1291  ls
- 1292  ls -a
- 1293  ls -la
- 1294  ls -al
- 1295  ls
- 1296  ls - l
- 1297  ls -l
- 1298  cd D
- 1299  cd Do
- 1300  pwd
- 1301  cd Documents
- 1302  pwd
- 1303  cd Documents/
- 1304  cd documents/
- 1305  pwd
- 1306  ls
+ 1289  cd darbi1
+ 1290  cdd .
+ 1291  cd .
+ 1292  ls
+ 1293  echo "teksts" > b.txt
+ 1294  ls
+ 1295  cd darbi1
+ 1296  cd /home/user
+ 1297  pwd
+ 1298  cd /darbi1
+ 1299  ls
+ 1300  cd darbi1/
+ 1301  echo "teksts" > c.txt
+ 1302  ls -l
+ 1303  cat a.txt
+ 1304  cat c.txt
+ 1305  echo "teksts222" > c.txt
+ 1306  cat c.txt
  1307  ls -l
- 1308  cd :
- 1309  cd:
+ 1308  echo "teksts222tekst22" > c.txt
+ 1309  echo "teksts222tekst22tekst3" >> c.txt
  1310  ls -l
- 1311  ls -la
- 1312  pwd
- 1313  cd .
- 1314  pwd
- 1315  cd ..
- 1316  cd .. pwd
- 1317  pwd
- 1318  cd ..
- 1319  pwd
- 1320  cd ..
- 1321  pwd
- 1322  cd /home/user
- 1323  pwd
- 1324  cd /
- 1325  pwd
- 1326  cd ~
- 1327  pwd
- 1328  cd ..
- 1329  cd
- 1330  pwd
- 1331  cd
- 1332  cd /
- 1333  pwd
- 1334  cd ~
- 1335  cd
- 1336  pwd
- 1337  ls
- 1338  mkdir darbi 
- 1339  ;s
- 1340  ls
- 1341  cd /
- 1342  mkdir darbi 
- 1343  cd
- 1344  pwd
- 1345  mkdir darbi 
- 1346  mkdir darbi1
- 1347  pwd
- 1348  ls
- 1349  /darbi$ ls
- 1350  /darbi1$ ls
- 1351  ls -la
- 1352  cd..
+ 1311  cat c.txt
+ 1312  cat a.txt >> d.txt
+ 1313  ls -l
+ 1314  cat c.txt >> d.txt
+ 1315  cat d.txt
+ 1316  man cd >> e.txt
+ 1317  man uname >> e.txt
+ 1318  cat e.txt
+ 1319  ls -l
+ 1320  cp a.txt Am.txt 
+ 1321  ls -l
+ 1322  cp b.txt b.txt 
+ 1323  cp c.txt c.txt 
+ 1324  cp c.txt cococo.txt 
+ 1325  ls -l
+ 1326  cat cococo.txt
+ 1327  cp c.txt ../cococo.txt 
+ 1328  ls -l
+ 1329  pwd
+ 1330  ls -l
+ 1331  cd /
+ 1332  pwd
+ 1333  cp /home/user/darbi1/Am.txt ~/cococ1o.txt 
+ 1334  cd 
+ 1335  ls -l
+ 1336  cat cococ1o.txt
+ 1337  cd
+ 1338  ls -l
+ 1339  rm aaa.txt
+ 1340  ls -l
+ 1341  rm cococ1o.txt
+ 1342  ls -l
+ 1343  rm ./darbi1/*.txt
+ 1344  cd darbi1/
+ 1345  ls -l
+ 1346  rmdir darbi1/
+ 1347  cd darbi1/
+ 1348  pwd
+ 1349  ls -l
+ 1350  rm *.txt
+ 1351  ls -l
+ 1352  cd .
  1353  cd ..
- 1354  pwd
- 1355  cd
+ 1354  rmdir darbi1/
+ 1355  ls -l
  1356  pwd
- 1357  ls -l
- 1358  rmdir VirtualBox Wms
- 1359  rmdir VirtualBox VMs
- 1360  ls -a
- 1361  ls -al
- 1362  rmdir darbi1
- 1363  pwd
- 1364  ls- al
- 1365  ls -al
- 1366  mkdir darbi1
- 1367  ls
- 1368  cd darbi1/
- 1369  pwd
- 1370  history
- 1371  echo Vaards
- 1372  echo "Vaards"
- 1373  ls
- 1374  echo "Vaards Uzvards" > a.txt
- 1375  ls
- 1376  ls -al
- 1377  cd .
- 1378  ls
- 1379  rmdir darbi1
- 1380  mkdir darbi1
- 1381  ls
- 1382  cd darbi1
- 1383  cdd .
- 1384  cd .
- 1385  ls
- 1386  echo "teksts" > b.txt
- 1387  ls
- 1388  cd darbi1
- 1389  cd /home/user
- 1390  pwd
- 1391  cd /darbi1
- 1392  ls
- 1393  cd darbi1/
- 1394  echo "teksts" > c.txt
- 1395  ls -l
- 1396  cat a.txt
- 1397  cat c.txt
- 1398  echo "teksts222" > c.txt
- 1399  cat c.txt
+ 1357  echo "teksts1" >> a1.txt
+ 1358  echo "teksts22" >> a2.txt
+ 1359  echo "teksts333" >> a3.txt
+ 1360  echo "teksts444" >> b1.txt
+ 1361  ls -l
+ 1362  mv a3.txt b2.txt
+ 1363  mv b1.txt b22.txt
+ 1364  mv b2.txt b1.txt
+ 1365  mv b22.txt b2.txt
+ 1366  ls -l
+ 1367  cat b1.txt
+ 1368  mv a*.txt ../
+ 1369  ls -l
+ 1370  cd ..
+ 1371  ls 
+ 1372  rm ./darbi1/*.txt
+ 1373  cd darbi1
+ 1374  ls
+ 1375  ls -l
+ 1376  pwd
+ 1377  echo "teksts444" >> b1.txt
+ 1378  ls -l
+ 1379  nano b1.txt
+ 1380  ls -l
+ 1381  pwd
+ 1382  ls -l
+ 1383  firefox &
+ 1384  pwd
+ 1385  hustory
+ 1386  history
+ 1387  git init
+ 1388  exit
+ 1389  lsb_release
+ 1390  cat /etc/*-realse
+ 1391  cat /etc/*-release
+ 1392  echo $0
+ 1393  run paint
+ 1394  pwd
+ 1395  who
+ 1396  uname -r
+ 1397  man uname
+ 1398  history
+ 1399  ls
  1400  ls -l
- 1401  echo "teksts222tekst22" > c.txt
- 1402  echo "teksts222tekst22tekst3" >> c.txt
- 1403  ls -l
- 1404  cat c.txt
- 1405  cat a.txt >> d.txt
- 1406  ls -l
- 1407  cat c.txt >> d.txt
- 1408  cat d.txt
- 1409  man cd >> e.txt
- 1410  man uname >> e.txt
- 1411  cat e.txt
- 1412  ls -l
- 1413  cp a.txt Am.txt 
- 1414  ls -l
- 1415  cp b.txt b.txt 
- 1416  cp c.txt c.txt 
- 1417  cp c.txt cococo.txt 
- 1418  ls -l
- 1419  cat cococo.txt
- 1420  cp c.txt ../cococo.txt 
- 1421  ls -l
- 1422  pwd
- 1423  ls -l
- 1424  cd /
- 1425  pwd
- 1426  cp /home/user/darbi1/Am.txt ~/cococ1o.txt 
- 1427  cd 
- 1428  ls -l
- 1429  cat cococ1o.txt
- 1430  cd
- 1431  ls -l
- 1432  rm aaa.txt
- 1433  ls -l
- 1434  rm cococ1o.txt
- 1435  ls -l
- 1436  rm ./darbi1/*.txt
- 1437  cd darbi1/
- 1438  ls -l
- 1439  rmdir darbi1/
- 1440  cd darbi1/
- 1441  pwd
- 1442  ls -l
- 1443  rm *.txt
- 1444  ls -l
- 1445  cd .
- 1446  cd ..
- 1447  rmdir darbi1/
- 1448  ls -l
- 1449  pwd
- 1450  echo "teksts1" >> a1.txt
- 1451  echo "teksts22" >> a2.txt
- 1452  echo "teksts333" >> a3.txt
- 1453  echo "teksts444" >> b1.txt
- 1454  ls -l
- 1455  mv a3.txt b2.txt
- 1456  mv b1.txt b22.txt
- 1457  mv b2.txt b1.txt
- 1458  mv b22.txt b2.txt
- 1459  ls -l
- 1460  cat b1.txt
- 1461  mv a*.txt ../
- 1462  ls -l
- 1463  cd ..
- 1464  ls 
- 1465  rm ./darbi1/*.txt
- 1466  cd darbi1
- 1467  ls
- 1468  ls -l
+ 1401  ls -a
+ 1402  ls -la
+ 1403  pwd
+ 1404  ls
+ 1405  cd Documents/
+ 1406  pwd
+ 1407  cd documents
+ 1408  cd documents/
+ 1409  pwd
+ 1410  ls
+ 1411  cd user
+ 1412  ls -la
+ 1413  cd . 
+ 1414  pwd
+ 1415  cd .
+ 1416  pwd
+ 1417  cd ..
+ 1418  pwd
+ 1419  cd ..
+ 1420  pwd
+ 1421  cd ..
+ 1422  ls -la
+ 1423  firefox
+ 1424  ls /dev/tty*
+ 1425  sudo sc
+ 1426  111
+ 1427  sudo su
+ 1428  111
+ 1429  screen /dev/ttyusb0 115200
+ 1430  screen /dev/ttyUSB0 115200
+ 1431  firefox
+ 1432  sudo sc
+ 1433  12
+ 1434  cd downloads
+ 1435  ls
+ 1436  unzip DE1_SoC_SD.zip
+ 1437  ls
+ 1438  unzip DE1_SoC_SD.zip
+ 1439  ls
+ 1440  su sc
+ 1441  sudo sc
+ 1442  ~~~
+ 1443  shut down
+ 1444  shutdown
+ 1445  id
+ 1446  ps-ef
+ 1447  ps
+ 1448  ps-ef
+ 1449  ps - ef
+ 1450  ps -ef
+ 1451  xcvxcv
+ 1452  xterm &
+ 1453  pwd
+ 1454  man pwd
+ 1455  pwd -L
+ 1456  cd
+ 1457  cd /cdr
+ 1458  cd /usr
+ 1459  cd /~&
+ 1460  cd /~$
+ 1461  cd /~
+ 1462  cd ~
+ 1463  ls
+ 1464  ..
+ 1465  . . 
+ 1466  cd ..
+ 1467  pwd
+ 1468  cd ..
  1469  pwd
- 1470  echo "teksts444" >> b1.txt
- 1471  ls -l
- 1472  nano b1.txt
- 1473  ls -l
+ 1470  cd ..
+ 1471  pwd
+ 1472  ls
+ 1473  cd
  1474  pwd
- 1475  ls -l
- 1476  firefox &
- 1477  pwd
- 1478  hustory
- 1479  history
- 1480  git init
- 1481  exit
- 1482  lsb_release
- 1483  cat /etc/*-realse
- 1484  cat /etc/*-release
- 1485  echo $0
- 1486  run paint
- 1487  pwd
- 1488  who
- 1489  uname -r
- 1490  man uname
- 1491  history
- 1492  ls
- 1493  ls -l
- 1494  ls -a
- 1495  ls -la
- 1496  pwd
- 1497  ls
- 1498  cd Documents/
- 1499  pwd
- 1500  cd documents
- 1501  cd documents/
- 1502  pwd
- 1503  ls
- 1504  cd user
- 1505  ls -la
- 1506  cd . 
- 1507  pwd
- 1508  cd .
- 1509  pwd
- 1510  cd ..
- 1511  pwd
- 1512  cd ..
- 1513  pwd
- 1514  cd ..
- 1515  ls -la
- 1516  firefox
- 1517  ls /dev/tty*
- 1518  sudo sc
- 1519  111
- 1520  sudo su
- 1521  111
- 1522  screen /dev/ttyusb0 115200
- 1523  screen /dev/ttyUSB0 115200
- 1524  firefox
- 1525  sudo sc
- 1526  12
- 1527  cd downloads
- 1528  ls
- 1529  unzip DE1_SoC_SD.zip
- 1530  ls
- 1531  unzip DE1_SoC_SD.zip
- 1532  ls
- 1533  su sc
- 1534  sudo sc
- 1535  ~~~
- 1536  shut down
- 1537  shutdown
- 1538  id
- 1539  ps-ef
- 1540  ps
- 1541  ps-ef
- 1542  ps - ef
- 1543  ps -ef
- 1544  xcvxcv
- 1545  xterm &
- 1546  pwd
- 1547  man pwd
- 1548  pwd -L
- 1549  cd
- 1550  cd /cdr
- 1551  cd /usr
- 1552  cd /~&
- 1553  cd /~$
- 1554  cd /~
- 1555  cd ~
- 1556  ls
- 1557  ..
- 1558  . . 
- 1559  cd ..
- 1560  pwd
- 1561  cd ..
- 1562  pwd
- 1563  cd ..
- 1564  pwd
- 1565  ls
- 1566  cd
- 1567  pwd
- 1568  ls
- 1569  cd
- 1570  touch
- 1571  touch aaa
- 1572  ls
- 1573  ls -l
- 1574  cp aaa bbb
- 1575  ls -l
- 1576  cp aaa /
- 1577  cp aaa /home/user/Desktop
- 1578  ls
- 1579  cd /home/user/Desktop
- 1580  ls -l
- 1581  ls
- 1582  ls /
- 1583  cd
- 1584  ls|echo
- 1585  ls|grep "ccc"
- 1586  pwd
- 1587  ls
- 1588  ls|grep "bbb"
- 1589  ls|grep "a"
- 1590  ls > rtu
- 1591  ls
- 1592  ls -l
- 1593  cat rtu
- 1594  echo "Sveiks student"
- 1595  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta"
- 1596  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" > rtu
- 1597  cat rtu
- 1598  pwd
- 1599  /
- 1600  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" >> rtu
- 1601  cat rtu
- 1602  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" > rtu
- 1603  cat rtu
- 1604  ssh x171REB156@213.175.92.22
- 1605  pwd
- 1606  ls
- 1607  whoiam
- 1608  whoami
- 1609  uname -r
- 1610  firefox 
- 1611  firefox
- 1612  uname -r
- 1613  echo $0
- 1614  pwd
- 1615  whoami
- 1616  is
- 1617  Is
- 1618  ls
- 1619  cat/etc/*-release
- 1620  cat /etc/*-release
- 1621  lsb_release
- 1622  cd
- 1623  cd downloads
- 1624  cd ..
- 1625  whoami
- 1626  who
- 1627  pwd
- 1628  ls
- 1629  ls -l
- 1630  la -ls
- 1631  ls -l
- 1632  cd documents/
- 1633  ls -la
- 1634  pwd
- 1635  cd .
- 1636  pwd
- 1637  cd ..
- 1638  pwd
- 1639  cd ..
- 1640  pwd
- 1641  cd ..
- 1642  pwd
- 1643  cd ~
- 1644  pwd
- 1645  cd /
- 1646  pwd
- 1647  cd /home/user/
+ 1475  ls
+ 1476  cd
+ 1477  touch
+ 1478  touch aaa
+ 1479  ls
+ 1480  ls -l
+ 1481  cp aaa bbb
+ 1482  ls -l
+ 1483  cp aaa /
+ 1484  cp aaa /home/user/Desktop
+ 1485  ls
+ 1486  cd /home/user/Desktop
+ 1487  ls -l
+ 1488  ls
+ 1489  ls /
+ 1490  cd
+ 1491  ls|echo
+ 1492  ls|grep "ccc"
+ 1493  pwd
+ 1494  ls
+ 1495  ls|grep "bbb"
+ 1496  ls|grep "a"
+ 1497  ls > rtu
+ 1498  ls
+ 1499  ls -l
+ 1500  cat rtu
+ 1501  echo "Sveiks student"
+ 1502  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta"
+ 1503  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" > rtu
+ 1504  cat rtu
+ 1505  pwd
+ 1506  /
+ 1507  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" >> rtu
+ 1508  cat rtu
+ 1509  echo "Ievadiet jūsu summu ko vēlaties izmaksāt no bankomāta" > rtu
+ 1510  cat rtu
+ 1511  ssh x171REB156@213.175.92.22
+ 1512  pwd
+ 1513  ls
+ 1514  whoiam
+ 1515  whoami
+ 1516  uname -r
+ 1517  firefox 
+ 1518  firefox
+ 1519  uname -r
+ 1520  echo $0
+ 1521  pwd
+ 1522  whoami
+ 1523  is
+ 1524  Is
+ 1525  ls
+ 1526  cat/etc/*-release
+ 1527  cat /etc/*-release
+ 1528  lsb_release
+ 1529  cd
+ 1530  cd downloads
+ 1531  cd ..
+ 1532  whoami
+ 1533  who
+ 1534  pwd
+ 1535  ls
+ 1536  ls -l
+ 1537  la -ls
+ 1538  ls -l
+ 1539  cd documents/
+ 1540  ls -la
+ 1541  pwd
+ 1542  cd .
+ 1543  pwd
+ 1544  cd ..
+ 1545  pwd
+ 1546  cd ..
+ 1547  pwd
+ 1548  cd ..
+ 1549  pwd
+ 1550  cd ~
+ 1551  pwd
+ 1552  cd /
+ 1553  pwd
+ 1554  cd /home/user/
+ 1555  pwd
+ 1556  cd /
+ 1557  pwd
+ 1558  cd
+ 1559  pwd
+ 1560  ls
+ 1561  pwd
+ 1562  mkdir darbi
+ 1563  mkdir darbi123
+ 1564  ls -l
+ 1565  cd darbi123
+ 1566  pwd
+ 1567  ls -la
+ 1568  history
+ 1569  history > history.txt
+ 1570  ls -la
+ 1571  cat history.txt
+ 1572  pwd
+ 1573  cd ..
+ 1574  pwd
+ 1575  echo
+ 1576  man echo
+ 1577  echo Tecmint is a community of Linux Nerds
+ 1578  x=10
+ 1579  echo The value of variable x = $x 
+ 1580  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinnux \bNerds"
+ 1581  echo -e "Tecmint \nis \ba \ncommunity \nof \nLinnux \nNerds"
+ 1582  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinnux \tNerds"
+ 1583  echo -e"\n\tTecmint \n\ta \n\tcommunity \n\tof \n\tNerds"
+ 1584  echo -e "\n\tTecmint \n\tis \n\ta  \n\tcommunity \n\tof \n\tNerds" 
+ 1585  echo -e "\vTecmint \vis \va \vcommunity \vof \n\vNerds"
+ 1586  echo -e "\n\vTecmint \n\vis \n\va  \n\vcommunity \n\vof \n\vLinux \n\vNerds" 
+ 1587  echo -e "\Tecmint \ris  community of Linux Nerds"a
+ 1588  echo -e "\Tecmint \ris  community of Linux Nerds"
+ 1589  echo -e "\Tecmint is a community \cof Linux Nerds"
+ 1590  echo -e "Tecmint is a community \cof Linux Nerds"
+ 1591  echo -n "Tecmint is a community of Linux Nerds"
+ 1592  echo -e "\Tecmint \ris  community of Linux Nerds"
+ 1593  echo -e "\Tecmint is a community \cof Linux Nerds"
+ 1594  echo -n "Tecmint is a community of Linux Nerds"
+ 1595  pwd
+ 1596  echo -n "Tecmint is a community of Linux Nerds"
+ 1597  echo -e "Tecmint is a community of \aLinux Nerds"
+ 1598  echo *
+ 1599  echo * .jpeg
+ 1600  echo echo "Test Page" > testpage
+ 1601  pwd
+ 1602  history
+ 1603  history > history.txt
+ 1604  la -ls
+ 1605  ls
+ 1606  hisroty
+ 1607  history
+ 1608  ls -la
+ 1609  cd darbi123
+ 1610  ls
+ 1611  la
+ 1612  ls -la
+ 1613  $ echo Tecmint is a community of Linux Nerds
+ 1614  history
+ 1615  x=10
+ 1616  echo The value of variable x = $x
+ 1617  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+ 1618  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+ 1619  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+ 1620  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+ 1621  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+ 1622  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+ 1623  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+ 1624  echo -e "\vTecmint \n\vis \n\va \vcommunity \n\vof \n\vLinux \n\vNerds"
+ 1625  echo -e "Tecmint \ris a community of Linux Nerds"
+ 1626  echo -e "Tecmint is a community \cof Linux Nerds"
+ 1627  echo -n "Tecmint is a community of Linux Nerds"
+ 1628  echo -e "Tecmint is a community of \aLinux Nerds"
+ 1629  echo *
+ 1630  history
+ 1631  echo "Test Page" > tekst.txt
+ 1632  history > history.txt
+ 1633  la
+ 1634  ls
+ 1635  ls -la
+ 1636  history
+ 1637  git init
+ 1638  git add .
+ 1639  git config --global user.name MaksimsVecenans@gmail.com
+ 1640  git commit -m "20170913_11_40"
+ 1641  git remote add origin https://github.com/Maksims222/DMI.git
+ 1642  git push origin master
+ 1643  ls -la
+ 1644  firefox &
+ 1645  chromium-browser 
+ 1646  fairfox
+ 1647  firefox
  1648  pwd
- 1649  cd /
- 1650  pwd
- 1651  cd
+ 1649  who
+ 1650  ls
+ 1651  cd abc
  1652  pwd
- 1653  ls
- 1654  pwd
- 1655  mkdir darbi
- 1656  mkdir darbi123
- 1657  ls -l
- 1658  cd darbi123
- 1659  pwd
- 1660  ls -la
- 1661  history
- 1662  history > history.txt
- 1663  ls -la
- 1664  cat history.txt
- 1665  pwd
- 1666  cd ..
- 1667  pwd
- 1668  echo
- 1669  man echo
- 1670  echo Tecmint is a community of Linux Nerds
- 1671  x=10
- 1672  echo The value of variable x = $x 
- 1673  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinnux \bNerds"
- 1674  echo -e "Tecmint \nis \ba \ncommunity \nof \nLinnux \nNerds"
- 1675  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinnux \tNerds"
- 1676  echo -e"\n\tTecmint \n\ta \n\tcommunity \n\tof \n\tNerds"
- 1677  echo -e "\n\tTecmint \n\tis \n\ta  \n\tcommunity \n\tof \n\tNerds" 
- 1678  echo -e "\vTecmint \vis \va \vcommunity \vof \n\vNerds"
- 1679  echo -e "\n\vTecmint \n\vis \n\va  \n\vcommunity \n\vof \n\vLinux \n\vNerds" 
- 1680  echo -e "\Tecmint \ris  community of Linux Nerds"a
- 1681  echo -e "\Tecmint \ris  community of Linux Nerds"
- 1682  echo -e "\Tecmint is a community \cof Linux Nerds"
- 1683  echo -e "Tecmint is a community \cof Linux Nerds"
- 1684  echo -n "Tecmint is a community of Linux Nerds"
- 1685  echo -e "\Tecmint \ris  community of Linux Nerds"
- 1686  echo -e "\Tecmint is a community \cof Linux Nerds"
- 1687  echo -n "Tecmint is a community of Linux Nerds"
- 1688  pwd
- 1689  echo -n "Tecmint is a community of Linux Nerds"
- 1690  echo -e "Tecmint is a community of \aLinux Nerds"
- 1691  echo *
- 1692  echo * .jpeg
- 1693  echo echo "Test Page" > testpage
- 1694  pwd
- 1695  history
- 1696  history > history.txt
- 1697  la -ls
- 1698  ls
- 1699  hisroty
- 1700  history
- 1701  ls -la
- 1702  cd darbi123
- 1703  ls
- 1704  la
- 1705  ls -la
- 1706  $ echo Tecmint is a community of Linux Nerds
- 1707  history
- 1708  x=10
- 1709  echo The value of variable x = $x
- 1710  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
- 1711  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
- 1712  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
- 1713  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
- 1714  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
- 1715  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
- 1716  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
- 1717  echo -e "\vTecmint \n\vis \n\va \vcommunity \n\vof \n\vLinux \n\vNerds"
- 1718  echo -e "Tecmint \ris a community of Linux Nerds"
- 1719  echo -e "Tecmint is a community \cof Linux Nerds"
- 1720  echo -n "Tecmint is a community of Linux Nerds"
- 1721  echo -e "Tecmint is a community of \aLinux Nerds"
- 1722  echo *
- 1723  history
- 1724  echo "Test Page" > tekst.txt
- 1725  history > history.txt
- 1726  la
- 1727  ls
- 1728  ls -la
- 1729  history
- 1730  git init
- 1731  git add .
- 1732  git config --global user.name MaksimsVecenans@gmail.com
- 1733  git commit -m "20170913_11_40"
- 1734  git remote add origin https://github.com/Maksims222/DMI.git
- 1735  git push origin master
- 1736  ls -la
- 1737  firefox &
- 1738  chromium-browser 
- 1739  fairfox
- 1740  firefox
- 1741  pwd
- 1742  who
- 1743  ls
- 1744  cd abc
- 1745  pwd
- 1746  cd user
- 1747  cd ..
- 1748  pwd
- 1749  uname -r
- 1750  cat /etc/*
- 1751  echo $0
- 1752  ls
- 1753  abc1.txt
- 1754  abc1.txt cat
- 1755  cat /etc/*-release
- 1756  echo $0
- 1757  pwd
- 1758  whoami
- 1759  ls
- 1760  ls -l
- 1761  ls -a
- 1762  ls
- 1763  cd documents
- 1764  ls
- 1765  ls -la
- 1766  cd ..
- 1767  pwd
- 1768  cd ..
- 1769  pwd
- 1770  cd ..
- 1771  pwd
- 1772  ls -la
- 1773  cd ..
- 1774  pwd
- 1775  cd ~
- 1776  pwd
- 1777  mkdir darbi1
- 1778  darbi3
- 1779  mkdir darbi3
- 1780  ls -la
- 1781  ls
+ 1653  cd user
+ 1654  cd ..
+ 1655  pwd
+ 1656  uname -r
+ 1657  cat /etc/*
+ 1658  echo $0
+ 1659  ls
+ 1660  abc1.txt
+ 1661  abc1.txt cat
+ 1662  cat /etc/*-release
+ 1663  echo $0
+ 1664  pwd
+ 1665  whoami
+ 1666  ls
+ 1667  ls -l
+ 1668  ls -a
+ 1669  ls
+ 1670  cd documents
+ 1671  ls
+ 1672  ls -la
+ 1673  cd ..
+ 1674  pwd
+ 1675  cd ..
+ 1676  pwd
+ 1677  cd ..
+ 1678  pwd
+ 1679  ls -la
+ 1680  cd ..
+ 1681  pwd
+ 1682  cd ~
+ 1683  pwd
+ 1684  mkdir darbi1
+ 1685  darbi3
+ 1686  mkdir darbi3
+ 1687  ls -la
+ 1688  ls
+ 1689  cd darbi3
+ 1690  pwd
+ 1691  history
+ 1692  history > history.txt
+ 1693  ls -la
+ 1694  cat history
+ 1695  cat history.txt
+ 1696  ls -la
+ 1697  git init
+ 1698  git add .
+ 1699  git config --global user.name takuzuka@mail.ru
+ 1700  git commit -m "20170913_14_00"
+ 1701  git config --global user.email takuzuka@mail.ru
+ 1702  git remote add origin https://github.com/takuzuka/DMI.git
+ 1703  git push origin master
+ 1704  pwd
+ 1705  mkdir apakshdarbi
+ 1706  ls
+ 1707  cd apakshdarbi
+ 1708  cd ..
+ 1709  ls
+ 1710  cd apakshdarbi
+ 1711  history > vesture.txt
+ 1712  ls
+ 1713  cd ..
+ 1714  pwd
+ 1715  rmdim apakshdarbi
+ 1716  rmdir apaksdarbi
+ 1717  rmdir apakshdarbi
+ 1718  man rmdir
+ 1719  rm apakshdarbi
+ 1720  man rm
+ 1721  rm -rf apakshdarbi
+ 1722  ls -la
+ 1723  cd /
+ 1724  ls
+ 1725  mkdir apaksdarbi
+ 1726  rm dev
+ 1727  rm -rf dev
+ 1728  cd
+ 1729  pwd
+ 1730  cd darbi3
+ 1731  echo Hello darkness my old friend
+ 1732  echo -e Hello \ndarkness \nmy \nold \nfriend
+ 1733  echo -e hello darkness my old friend
+ 1734  echo -e "hello \ndarkness \nmy \nold \nfriend"
+ 1735  echo -e "Hello \tdarkness \tmy \told \tfriend"
+ 1736  echo -e "Hello \a darkness my old friend"
+ 1737  echo -e "HELLO \NDARKNESS \NMY \NOLD \NFRIEND"
+ 1738  echo -e "\vHELLO \vDARKNESS \vMY \vOLD \vFRIEND"
+ 1739  echo -e "\n\vHELLO \n\vDARKNESS \n\vMY \n\vOLD \n\vFRIEND"
+ 1740  echo *
+ 1741  echo *.txt
+ 1742  echo "Tektsts"
+ 1743  Tektsts > a.txt
+ 1744  echo "Tekt"
+ 1745  echo "Tekt" > a.txt
+ 1746  ls -la
+ 1747  cat a.txt
+ 1748  echo "savemepls"" > b.txt
+ 1749  ls -l
+ 1750  cd 
+ 1751  chromium-browser 
+ 1752  pwd
+ 1753  ls
+ 1754  cd darbi3
+ 1755  ls 
+ 1756  > c.txt
+ 1757  ls -l
+ 1758  echo "saveme" > b.txt
+ 1759  ls -l
+ 1760  cat a.txt
+ 1761  cat b.txt
+ 1762  cat c.txt
+ 1763  man ls > ls_komandas_apraksts
+ 1764  ls -l
+ 1765  cat ls_komandas_apraksts 
+ 1766  cat a.txt > d.txt
+ 1767  ls -l
+ 1768  cat b.txt > d.txt
+ 1769  ls -l
+ 1770  cat a.txt > d.txt
+ 1771  cat b.txt >> d.txt
+ 1772  ls -l
+ 1773  cat d.txt
+ 1774  cp d.txt dd.txt
+ 1775  ls -l
+ 1776  cp c.txt ../c1.txt
+ 1777  cd ..
+ 1778  ls -la
+ 1779  ls -l
+ 1780  pwd
+ 1781  cp c1.txt darbi/c2.txt
  1782  cd darbi3
- 1783  pwd
- 1784  history
- 1785  history > history.txt
- 1786  ls -la
- 1787  cat history
- 1788  cat history.txt
- 1789  ls -la
- 1790  git init
- 1791  git add .
- 1792  git config --global user.name takuzuka@mail.ru
- 1793  git commit -m "20170913_14_00"
- 1794  git config --global user.email takuzuka@mail.ru
- 1795  git remote add origin https://github.com/takuzuka/DMI.git
- 1796  git push origin master
- 1797  pwd
- 1798  mkdir apakshdarbi
- 1799  ls
- 1800  cd apakshdarbi
- 1801  cd ..
- 1802  ls
- 1803  cd apakshdarbi
- 1804  history > vesture.txt
- 1805  ls
- 1806  cd ..
- 1807  pwd
- 1808  rmdim apakshdarbi
- 1809  rmdir apaksdarbi
- 1810  rmdir apakshdarbi
- 1811  man rmdir
- 1812  rm apakshdarbi
- 1813  man rm
- 1814  rm -rf apakshdarbi
- 1815  ls -la
- 1816  cd /
- 1817  ls
- 1818  mkdir apaksdarbi
- 1819  rm dev
- 1820  rm -rf dev
- 1821  cd
- 1822  pwd
- 1823  cd darbi3
- 1824  echo Hello darkness my old friend
- 1825  echo -e Hello \ndarkness \nmy \nold \nfriend
- 1826  echo -e hello darkness my old friend
- 1827  echo -e "hello \ndarkness \nmy \nold \nfriend"
- 1828  echo -e "Hello \tdarkness \tmy \told \tfriend"
- 1829  echo -e "Hello \a darkness my old friend"
- 1830  echo -e "HELLO \NDARKNESS \NMY \NOLD \NFRIEND"
- 1831  echo -e "\vHELLO \vDARKNESS \vMY \vOLD \vFRIEND"
- 1832  echo -e "\n\vHELLO \n\vDARKNESS \n\vMY \n\vOLD \n\vFRIEND"
- 1833  echo *
- 1834  echo *.txt
- 1835  echo "Tektsts"
- 1836  Tektsts > a.txt
- 1837  echo "Tekt"
- 1838  echo "Tekt" > a.txt
- 1839  ls -la
- 1840  cat a.txt
- 1841  echo "savemepls"" > b.txt
- 1842  ls -l
- 1843  cd 
- 1844  chromium-browser 
- 1845  pwd
- 1846  ls
- 1847  cd darbi3
- 1848  ls 
- 1849  > c.txt
- 1850  ls -l
- 1851  echo "saveme" > b.txt
- 1852  ls -l
- 1853  cat a.txt
- 1854  cat b.txt
- 1855  cat c.txt
- 1856  man ls > ls_komandas_apraksts
- 1857  ls -l
- 1858  cat ls_komandas_apraksts 
- 1859  cat a.txt > d.txt
- 1860  ls -l
- 1861  cat b.txt > d.txt
- 1862  ls -l
- 1863  cat a.txt > d.txt
- 1864  cat b.txt >> d.txt
- 1865  ls -l
- 1866  cat d.txt
- 1867  cp d.txt dd.txt
- 1868  ls -l
- 1869  cp c.txt ../c1.txt
- 1870  cd ..
- 1871  ls -la
- 1872  ls -l
- 1873  pwd
- 1874  cp c1.txt darbi/c2.txt
- 1875  cd darbi3
- 1876  ls -l
- 1877  cd ..
- 1878  cp c1.txt darbi3/c2.txt
- 1879  cd darbi3
- 1880  ls -l
- 1881  cd
- 1882  cd /
- 1883  mv ~/darbi3/ls_komandas_apraksts ~/
- 1884  cd
- 1885  ls -l
- 1886  cd darbi3
- 1887  ls -l
+ 1783  ls -l
+ 1784  cd ..
+ 1785  cp c1.txt darbi3/c2.txt
+ 1786  cd darbi3
+ 1787  ls -l
+ 1788  cd
+ 1789  cd /
+ 1790  mv ~/darbi3/ls_komandas_apraksts ~/
+ 1791  cd
+ 1792  ls -l
+ 1793  cd darbi3
+ 1794  ls -l
+ 1795  pwd
+ 1796  ls -la
+ 1797  git add .
+ 1798  history > history.txt
+ 1799  git add .
+ 1800  git commit -m "20170913_16_06"
+ 1801  git push master origin
+ 1802  git push  origin master
+ 1803  uname -r
+ 1804  lsb_release
+ 1805  cat /etc/*-release
+ 1806  whoami
+ 1807  who
+ 1808  ls
+ 1809  cd
+ 1810  cd / test.m
+ 1811  pwd
+ 1812  cd
+ 1813  cat / test.m
+ 1814  cd / home
+ 1815  pwd
+ 1816  history
+ 1817  cd user
+ 1818  cd home
+ 1819  cd
+ 1820  pwd
+ 1821  cd home
+ 1822  ls
+ 1823  cd darbi
+ 1824  ls
+ 1825  cd home
+ 1826  cd
+ 1827  nano a1.txt
+ 1828  history
+ 1829  echo $0
+ 1830  sh 
+ 1831  pwd
+ 1832  cd ~
+ 1833  cd darbi
+ 1834  cd ~
+ 1835  cd darbi 
+ 1836  mkdir darbidarbi
+ 1837  cd darbidarbi
+ 1838  cd 
+ 1839  whoami
+ 1840  su kisa
+ 1841  history
+ 1842  who
+ 1843  exit
+ 1844  pwd
+ 1845  mkdir kiskis
+ 1846  cd kiskis
+ 1847  ls -la
+ 1848  git init
+ 1849  cd
+ 1850  rmdir kiskis
+ 1851  exit
+ 1852  firefox &
+ 1853  chromium-browser 
+ 1854  pwd
+ 1855  history
+ 1856  firefox
+ 1857  fox
+ 1858  chrome
+ 1859  internet
+ 1860  explorer
+ 1861  firefox
+ 1862  ]=\=-\=-\=\
+ 1863  firefox
+ 1864  man pwd
+ 1865  cat/etc/*-release
+ 1866  cat /etc/*-release
+ 1867  echo $0
+ 1868  pwd
+ 1869  sh
+ 1870  pwd
+ 1871  who
+ 1872  whoami
+ 1873  su
+ 1874  eho
+ 1875  who
+ 1876  ls
+ 1877  sh
+ 1878  ls -l
+ 1879  ls -al
+ 1880  cd Documents$ pwd
+ 1881  doc
+ 1882  cd ...
+ 1883  cd ..
+ 1884  cd..
+ 1885  pwd
+ 1886  ..
+ 1887  cd ..
  1888  pwd
- 1889  ls -la
- 1890  git add .
- 1891  history > history.txt
- 1892  git add .
- 1893  git commit -m "20170913_16_06"
- 1894  git push master origin
- 1895  git push  origin master
- 1896  uname -r
- 1897  lsb_release
- 1898  cat /etc/*-release
- 1899  whoami
- 1900  who
- 1901  ls
- 1902  cd
- 1903  cd / test.m
- 1904  pwd
- 1905  cd
- 1906  cat / test.m
- 1907  cd / home
- 1908  pwd
- 1909  history
- 1910  cd user
- 1911  cd home
- 1912  cd
- 1913  pwd
- 1914  cd home
- 1915  ls
- 1916  cd darbi
- 1917  ls
- 1918  cd home
- 1919  cd
- 1920  nano a1.txt
- 1921  history
- 1922  echo $0
- 1923  sh 
- 1924  pwd
- 1925  cd ~
- 1926  cd darbi
- 1927  cd ~
- 1928  cd darbi 
- 1929  mkdir darbidarbi
- 1930  cd darbidarbi
- 1931  cd 
- 1932  whoami
- 1933  su kisa
- 1934  history
- 1935  who
- 1936  exit
- 1937  pwd
- 1938  mkdir kiskis
- 1939  cd kiskis
- 1940  ls -la
- 1941  git init
- 1942  cd
- 1943  rmdir kiskis
- 1944  exit
- 1945  firefox &
- 1946  chromium-browser 
- 1947  pwd
- 1948  history
- 1949  firefox
- 1950  fox
- 1951  chrome
- 1952  internet
- 1953  explorer
- 1954  firefox
- 1955  ]=\=-\=-\=\
- 1956  firefox
- 1957  man pwd
- 1958  cat/etc/*-release
- 1959  cat /etc/*-release
- 1960  echo $0
- 1961  pwd
- 1962  sh
- 1963  pwd
- 1964  who
- 1965  whoami
- 1966  su
- 1967  eho
- 1968  who
- 1969  ls
- 1970  sh
- 1971  ls -l
- 1972  ls -al
- 1973  cd Documents$ pwd
- 1974  doc
- 1975  cd ...
- 1976  cd ..
- 1977  cd..
- 1978  pwd
- 1979  ..
- 1980  cd ..
- 1981  pwd
- 1982  cd home
+ 1889  cd home
+ 1890  exit
+ 1891  pwd
+ 1892  cd /home/user
+ 1893  pwd
+ 1894  cd /
+ 1895  cd ~
+ 1896  pwd
+ 1897  cd /
+ 1898  pwd
+ 1899  cd
+ 1900  pwd
+ 1901  cd /
+ 1902  pwd
+ 1903  ls
+ 1904  mkdir darbi
+ 1905  cd~
+ 1906  cd ~
+ 1907  pwd
+ 1908  ls
+ 1909  mkdir documents/
+ 1910  mkdi
+ 1911  mk
+ 1912  ls
+ 1913  mkdir darbi
+ 1914  mkdir darbi001
+ 1915  cd darbi001
+ 1916  ls -la
+ 1917  history
+ 1918  history > history.txt
+ 1919  ls -l
+ 1920  cat history.txt
+ 1921  delete
+ 1922  del
+ 1923  pwd
+ 1924  ls
+ 1925  txt
+ 1926  history.txt
+ 1927  cd history.txt
+ 1928  ls
+ 1929  cat history.txt
+ 1930  git init
+ 1931  git add .
+ 1932  ls
+ 1933  git commit -m "20170914_15_55"
+ 1934  git remote add origin https://github.com/lazdlv/DMI.git
+ 1935  git push origin master
+ 1936  history
+ 1937  lsl
+ 1938  ls -l
+ 1939  history.txt
+ 1940  cat history.txt
+ 1941  history > history.txt
+ 1942  ls -l
+ 1943  nano history.txt
+ 1944  git add .
+ 1945  commit - "20170914_16_45"
+ 1946  git commit -e "20170914_16_45"
+ 1947  git commit -m "20170914_16_45"
+ 1948  git push origin master
+ 1949  man echo
+ 1950  echo
+ 1951  echo [option(s)] [string(s)]
+ 1952  echo Tacmint is a community of Linux Nerds
+ 1953  x=10
+ 1954  echo The value of variable x = $x
+ 1955  echo -e "tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+ 1956  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+ 1957  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+ 1958  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+ 1959  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+ 1960  echo -e "Tecmint \ris a community of Linux Nerds"
+ 1961  echo -e "Tecmint is a community \cof Linux Nerds" 
+ 1962  echo -n "Tecmint is a community of Linux Nerds" 
+ 1963  echo -e "Tecmint is a community of \aLinux Nerds" 
+ 1964  echo * 
+ 1965  103.odt 103.pdf 104.odt 104.pdf 105.odt 105.pdf 106.odt 106.pdf 107.odt 107.pdf 108a.odt 108.odt 108.pdf 109.odt 109.pdf 110b.odt 110.odt 110.pdf 111.odt 111.pdf 112.odt 112.pdf 113.odt linux-headers-3.16.0-customkernel_1_amd64.deb linux-image-3.16.0-customkernel_1_amd64.deb network.jpeg 
+ 1966  echo * 
+ 1967  103.odt 103.pdf 104.odt 104.pdf 105.odt 105.pdf 106.odt 106.pdf 107.odt 107.pdf 108a.odt 108.odt 108.pdf 109.odt 109.pdf 110b.odt 110.odt 110.pdf 111.odt 111.pdf 112.odt 112.pdf 113.odt linux-headers-3.16.0-customkernel_1_amd64.deb linux-image-3.16.0-customkernel_1_amd64.deb network.jpeg 
+ 1968  echo *
+ 1969  echo *.jpeg
+ 1970  echo "Test Page" > testpage
+ 1971  avi@tecmint:~$ cat testpage 
+ 1972  cat testpage
+ 1973  echo history > history.txt
+ 1974  ls
+ 1975  ls -l
+ 1976  cd - e
+ 1977  cd -e
+ 1978  ls
+ 1979  ls ~
+ 1980  ld
+ 1981  ls
+ 1982  ls exit
  1983  exit
- 1984  git init
- 1985  git add .
- 1986  ls
- 1987  git commit -m "20170914_15_55"
- 1988  git remote add origin https://github.com/lazdlv/DMI.git
- 1989  git push origin master
- 1990  history
- 1991  lsl
- 1992  ls -l
- 1993  history.txt
- 1994  cat history.txt
- 1995  history > history.txt
+ 1984  nano
+ 1985  ls
+ 1986  rm c2.txt
+ 1987  rm c1.txt
+ 1988  rm ls.txt
+ 1989  rm cococo.txt
+ 1990  ls
+ 1991  cat nano.txt
+ 1992  pwd
+ 1993  ls -la
+ 1994  history > history.txt
